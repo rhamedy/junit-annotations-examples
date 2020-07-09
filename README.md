@@ -1,11 +1,9 @@
 
 # JUnit 4 and 5 Annotation Usage Examples
 
-I wrote an article on how to use JUnit 4 and 5 Annotations and all the examples from the article are in this repository. 
+This repository was used for an article explaining JUnit 4 and JUnit 5 Annotations with Examples 
 
-[https://dev.to/rhamedy/junit-4-5-annotations-every-developer-should-know-5f6c](https://dev.to/rhamedy/junit-4-5-annotations-every-developer-should-know-5f6c)
-
-Please feel free to share your comments, suggestions and feedback about the article with the rest o the community. 
+https://medium.com/@rhamedy/junit-annotations-every-developer-should-know-eb972a7a26c9
 
 ## Contributions
 You are welcome to submit more annotation usage examples, simply fork the repository and make a pull request. 
